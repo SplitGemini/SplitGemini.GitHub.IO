@@ -1,5 +1,4 @@
 title: Home
-logo: /assets/img/logo.png
 description: Home.
 show_downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
